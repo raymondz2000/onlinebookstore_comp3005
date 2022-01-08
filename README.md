@@ -4,7 +4,7 @@ final project for comp3005
 #
 
 ```
-chang db connect info
+change db connect info
 run db_init.js
 run dbserver.js
 ```
